@@ -1,0 +1,9 @@
+body{
+    background: rgba(146, 185, 113, 0.685);
+}
+.nef{
+    position: absolute;
+    top: 27.38em;
+    right: 0em;
+    height: 55%;
+}

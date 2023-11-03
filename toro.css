@@ -1,0 +1,23 @@
+body{
+    background-image: url(fon\ toro.png);
+}
+.text{
+    position: absolute;
+    top: 0.2em;
+    left: 3.4em;
+    font-size: 130px;
+    font-stretch: condensed;
+    font-family: 'Times New Roman';
+}
+.op1{
+    position: absolute;
+    top: 3em;
+    left: 2em;
+    height: 90%;
+}
+.op2{
+    position: absolute;
+    top: 3em;
+    right: 2em;
+    height: 90%;
+}

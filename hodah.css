@@ -1,0 +1,56 @@
+body{
+    background-image: url(foon.png);
+}
+.text{
+    position: absolute;
+    top: 0.2em;
+    left: 4em;
+    font-size: 130px;
+    font-stretch: condensed;
+    font-family: 'Haettenschweiler';
+    color: rgb(6, 80, 141);
+}
+.def1{
+    position: absolute;
+    top: 18.6em;
+    left: 5em;
+    width: 20%;
+    height: 69%;
+}
+.sloi{
+    position: absolute;
+    top: 18em;
+    left: 4em;
+    width: 22%;
+    height: 70%;
+}
+.al1{
+    position: absolute;
+    right: 3em;
+    top: 10em;
+}
+.al2{
+    position: absolute;
+    right: 30em;
+    top: 30em;
+}
+.p1{
+    position: absolute;
+    top: 10.5em;
+    right: 3.5em;
+    height: 46%;
+    transition: transform 0.3s;
+}
+.p1:hover{
+    transform: scale(1.1);
+}
+.p2{
+    position: absolute;
+    top: 30.5em;
+    right: 30.3em;
+    height: 46%;
+    transition: transform 0.3s;
+}
+.p2:hover{
+    transform: scale(1.1);
+}

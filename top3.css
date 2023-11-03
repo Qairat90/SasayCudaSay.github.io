@@ -1,0 +1,92 @@
+body{
+    background: rgba(170, 166, 104, 0.418);
+}
+.moi1{
+    display: inline-block;
+    position: absolute;
+    top: 340px;
+    left: 39%;
+    font-size: 40px;
+    transition: transform 0.3s;
+}
+.moi1:hover{
+    transform: scale(1.1);
+}
+.moi1{
+    color: black;
+}
+.un2{
+    display: inline-block;
+    position: absolute;
+    top: 495px;
+    left: 36.5%;
+    font-size: 40px;
+    transition: transform 0.3s;
+}
+.un2:hover{
+    transform: scale(1.1);
+}
+.un2{
+    color: black;
+}
+.hod3{
+    display: inline-block;
+    position: absolute;
+    top: 653px;
+    left: 40%;
+    font-size: 40px;
+    transition: transform 0.3s;
+}
+.hod3:hover{
+    transform: scale(1.1);
+}
+.hod3{
+    color: black;
+}
+.pen{
+position: absolute;
+top: 16em;
+left: 22em;
+height: 60%;
+width: 60%;
+}
+.ps{
+    position: absolute;
+    top: 5.5em;
+    left: 45.5em;
+    }
+    .zem{
+        position: absolute;
+        top: 6.5em;
+        left: 47.3em;
+        }
+.pr1{
+    position: absolute;
+    top: 20em;
+    left: 34em;
+}   
+.pr2{
+    position: absolute;
+    top: 30em;
+    left: 34em;
+}    
+.pr3{
+    position: absolute;
+    top: 40em;
+    left: 34em;
+}    
+.def{
+    position: absolute;
+    top: 30.1em;
+    height: 50%;
+}
+.tor{
+    position: absolute;
+    top: 40.2em;
+    right: 30em;
+}
+.maska{
+    position: absolute;
+    top: 7em;
+    left: 30em;
+}

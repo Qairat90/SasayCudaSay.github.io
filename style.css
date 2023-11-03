@@ -1,0 +1,78 @@
+body{
+    background: url(fon\ avtor.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text{
+    position: absolute;
+    top: 0.2em;
+    left: 4em;
+    font-size: 130px;
+    font-stretch: condensed;
+    font-family: 'Monotype Corsiva';
+}
+.fon{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.av1{
+    position: absolute;
+    top: 10em;
+    right: 2em;
+    width: 35%;
+    height: 50%;
+}
+.av2{
+    position: absolute;
+    top: 39em;
+    right: 2em;
+    width: 25%;
+    height: 35%;
+}
+.text10{
+    position: absolute;
+    top: 10em;
+    left: 9.5em;
+    font-size: 25px;    
+    transition: transform 0.3s;
+
+}
+.text10:hover{
+    transform: scale(1.1);
+
+}
+.text11{
+    position: absolute;
+    top: 21.5em;
+    left: 13em;
+    font-size: 25px;
+    transition: transform 0.3s;
+}
+.text11:hover{
+    transform: scale(1.1);
+}
+.tx{
+    position: absolute;
+    top: 13em;
+    left: 14em;
+    transition: transform 0.3s;
+    width: 33%;
+    height: 23%;
+}
+.tx:hover{
+    transform: scale(1.1);
+}
+.tx1{
+    position: absolute;
+    top: 30em;
+    left: 14em;
+    transition: transform 0.3s;
+    width: 33%;
+    height: 45%;
+
+}
+.tx1:hover{
+    transform: scale(1.1);
+}
+

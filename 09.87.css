@@ -1,0 +1,339 @@
+
+body {
+    background: #ffffff;
+    font-family: Roboto;
+  }
+.dio{
+    position: absolute;
+    top: 0.2em;
+    left: 4em;
+    font-size: 130px;
+    font-stretch: condensed;
+    font-family: 'Bauhaus 93';
+    color: rgb(0, 197, 204);
+}
+.dio1{
+    position: absolute;
+    top: 760px;
+    left: 700px;
+    font-size: 130px;
+    font-stretch: condensed;
+    font-family: 'Bauhaus 93';
+    color: rgb(0, 197, 204);
+}
+.top3ani{
+    display: inline-block;
+    position: absolute;
+    top: 2845px;
+    left: 33%;
+    font-size: 35px;
+    color: black;
+}
+.avtorr{
+    color: black;
+    margin-left: 270px;
+}
+.anixa{
+    position: absolute;
+    height: 85px;
+    top: 38px;
+    left: 25px;
+}
+.fon{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+}
+.dod1{
+    position: absolute;
+    height: 22%;
+    width: 100%;
+    left: 0px;
+    top: -4px;
+}
+.dod2{
+    position: absolute;
+    height: 22%;
+    width: 100%;
+    left: 0px;
+    top: 761px;
+}
+.egg{
+    position: absolute;
+    height: 30%;
+    top: 62em;
+    left: 40em;
+}
+.soss{
+    position: absolute;
+    height: 100%;
+    top: 1px;
+}
+.ruka{
+    position: absolute;
+    height: 75%;
+    top: 120px;
+    transition: transform 0.3s;
+}
+.ruka:hover{
+    transform: scale(1.1);
+}
+.sos{
+    position: absolute;
+    top: 79em;
+    left: 0em;
+}
+.sos1{
+    position: absolute;
+    top: 79em;
+    right: 0em;
+}
+.oss{
+    position: absolute;
+    top: 90em;
+    left: 10%;
+}
+.text01{
+position: absolute;
+top: 45.9em;
+left: 11em;
+font-size:267%;
+font-family: 'Sylfaen';
+color: rgb(255, 255, 255);
+}
+.pp{
+    position: absolute;
+    height: 39%;
+    width: 65%;
+    top: 120em;
+    left: 22em;
+}
+.str3{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 2330px;
+    left: 0px;
+}
+.xere{
+    position: absolute;
+    height: 35%;
+    width: 50%;
+    top: 2700px;
+    left: 500px;
+}
+.xe1{
+    position: absolute;
+    width: 20%;
+    height: 10%;
+    top: 176em;
+    left: 34em;
+}
+.ooop{
+    position: absolute;
+    width: 20%;
+    height: 10%;
+    top: 176em;
+    left: 64em;
+}
+.asta{
+    position: absolute;
+    height: 50%;
+    top: 169em;
+    right: 9em;
+}
+.fyi1{
+    position: absolute;
+    left: 0em;
+    width: 1903px;
+    height: 967px;
+    top: 3286px;
+}
+.nix{
+    position: absolute;
+    width: 1903px;
+    height: 210px;
+    top: 4060px;
+    left: 0px;
+}
+.zdan{
+    position: absolute;
+    width: 1195px;
+    height: 730px;
+    top: 3540px;
+    left: 708px;
+}
+.fla{
+    position: absolute;
+    height: 23%;
+    top: 3465px;
+    left: 687px;
+}
+.cel{
+    position: absolute;
+    height: 21%;
+    top: 3262px;
+    left: 687px;
+}
+.dor{
+    position: absolute;
+    height: 56%;
+    top: 3724px;
+    left: 167px;
+}
+.yap{
+    position: absolute;
+    top: 26.9em;
+    left: 2.5em;
+    font-size: 130px;
+    font-stretch: condensed;
+    font-family: 'Haettenschweiler';
+    color: rgb(187, 0, 0);
+}
+iframe{
+    position: absolute;
+    left: 632px;
+    top: 94em;
+    width: 661px;
+    height: 373px;
+}
+.fpf{
+    position: absolute;
+    height: 497px;
+    width: 1904px;
+    top: 4268px;
+    left: -1px;
+}
+.insta{
+    position: absolute;
+    height: 52px;
+    left: 48px;
+    top: 4409px;
+}
+.telega{
+    position: absolute;
+    height: 52px;
+    left: 48px;
+    top: 4483px;
+}
+.njn{
+    position: absolute;
+    height: 475px;
+    left: 1636px;
+    top: 4288px;
+}
+.blo0{
+    position: absolute;
+    top: 4662px;
+    left: 741px;
+    height: 10px;
+    font-size: 30px;
+    font-stretch: condensed;
+    font-family: 'Arial';
+    color: rgb(255, 255, 255);
+}
+.blo1{
+    position: absolute;
+    top: 4697px;
+    left: 884px;
+    font-size: 35px;
+    color: white;
+}
+.card {
+    position: absolute;
+    top: 4345px;
+    left: 767px;
+    width: 318px;
+    height: 262px;
+    padding: 0 15px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 12px;
+    background: #fff;
+    border-radius: 25px;
+  }
+  
+  .card > * {
+    margin: 0;
+  }
+  
+  .card__title {
+    font-size: 23px;
+    font-weight: 900;
+    color: #333;
+  }
+  
+  .card__content {
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+  }
+  
+  .card__form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .card__form input {
+    margin-top: 10px;
+    outline: 0;
+    background: rgb(255, 255, 255);
+    box-shadow: transparent 0px 0px 0px 1px inset;
+    padding: 0.6em;
+    border-radius: 14px;
+    border: 1px solid #333;
+    color: black;
+  }
+  
+  .card__form button {
+    border: 0;
+    background: #111;
+    color: #fff;
+    padding: 0.68em;
+    border-radius: 14px;
+    font-weight: bold;
+  }
+  
+  .sign-up:hover {
+    opacity: 0.8;
+  }
+  .instagram{
+    display: inline-block;
+    position: absolute;
+    top: 4424px;
+    left: 115px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.facebook{
+    display: inline-block;
+    position: absolute;
+    top: 4500px;
+    left: 115px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.V{display: table;
+    text-decoration: none;
+    color: rgb(151, 0, 0);
+    font-weight: bold;
+    margin: 0 10px;
+    margin-top: 5em;
+    margin-left: 2.5em;
+    font-size: 20px;
+  }
+.icon{
+    position: absolute;
+    list-style: none;
+    display: flex;
+    color: rgb(255, 0, 0);
+    top: -30px;
+    left: 80px;
+    font-family: 'Bauhaus 93';
+}
